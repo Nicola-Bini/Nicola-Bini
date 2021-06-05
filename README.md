@@ -12,14 +12,12 @@
   🛼 Skate lover<br>
   
   ☕ Hit me up for a virtual coffee!<br>
-  <img src="logos\instagram-icon.svg" width="32" height="32" style="background-color:white;"><br><br>
+  <img src="logos\linkedin-icon.svg" width="32" height="32" style="background-color:white;"><br><br>
   
   
   
   <h3>Stats!</h3><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Nicola-Bini&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  
-  
   
   
   
