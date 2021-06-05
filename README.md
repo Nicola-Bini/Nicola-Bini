@@ -12,8 +12,8 @@
   🛼 Skate lover<br>
   
   ☕ Hit me up for a virtual coffee!<br><br>
-  [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">] [linkedin]
-  [<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">] [instagram]
+  [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  [<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">][instagram]
   
   <br><br>
   
