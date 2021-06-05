@@ -27,3 +27,6 @@
 
 [instagram]:  https://www.instagram.com/nicolab.367/?hl=en
 [linkedin]:   https://www.linkedin.com/in/nicola-bini/
+
+
+![](https://komarev.com/ghpvc/?username=Nicola-Bini&color=green&style=flat-square&label=Friends'+visits)
