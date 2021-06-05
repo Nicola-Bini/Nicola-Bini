@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html>
-  <p> Hello there, Nicola's here! 👋</p><br><br><br><br>
-  
+  <p> Hello there, Nicola's here! 👋</p>
   
   
   🧑‍🎓 Graduating in Business Analytics at Hult University (Boston)<br>
   📘 Learning Django and Docker<br>
   📊 Head of Operations at Hult Data Analytics Club<br>
   🧘‍♂️ Passionate about meditation and buddhist philosophy<br>
-  🛼 Skate lover<br><br><br>
+  🛼 Skate lover
+  
+  
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
   [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
   [<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">][instagram]
-  
-  <br><br>
   
   
   
