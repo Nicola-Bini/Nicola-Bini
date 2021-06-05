@@ -12,8 +12,8 @@
   🛼 Skate lover<br>
   
   ☕ Hit me up for a virtual coffee!<br><br>
-  [<img href="https://www.linkedin.com/in/nicola-bini/" src="logos\linkedin-icon.svg" width="48" height="48" style="background-color:white;">][linkedin]
-  [<img  src="logos\instagram-icon.png" width="48" height="48" style="background-color:white;">][instagram]
+  [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">] [linkedin]
+  [<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">] [instagram]
   
   <br><br>
   
@@ -27,5 +27,5 @@
 </html>
 
 
-[instagram]:  https://www.linkedin.com/in/nicola-bini/
-[linkedin]:   https://www.instagram.com/nicolab.367/?hl=en
+[instagram]:  https://www.instagram.com/nicolab.367/?hl=en
+[linkedin]:   https://www.linkedin.com/in/nicola-bini/
