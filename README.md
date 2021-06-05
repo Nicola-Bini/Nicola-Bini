@@ -12,7 +12,7 @@
   🛼 Skate lover<br>
   
   ☕ Hit me up for a virtual coffee!<br>
-  <img src="logos\instagram-icon.svg" width="32" height="32" style="background-color:white">
+  <img src="logos\instagram-icon.svg" width="32" height="32" style="background-color:white;"><br><br>
   
   
   
