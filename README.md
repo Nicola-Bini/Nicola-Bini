@@ -11,8 +11,11 @@
   🧘‍♂️ Passionate about meditation and buddhist philosophy<br>
   🛼 Skate lover<br>
   
-  ☕ Hit me up for a virtual coffee!<br>
-  <img src="logos\linkedin-icon.svg" width="32" height="32" style="background-color:white;"><br><br>
+  ☕ Hit me up for a virtual coffee!<br><br>
+  <img href="https://www.linkedin.com/in/nicola-bini/" src="logos\linkedin-icon.svg" width="48" height="48" style="background-color:white;">
+  <img href="https://www.instagram.com/nicolab.367/?hl=en" src="logos\instagram-icon.png" width="48" height="48" style="background-color:white;">
+  
+  <br><br>
   
   
   
