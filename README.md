@@ -4,15 +4,16 @@
   
   
   
-  🧑‍🎓 I'm graduating in Business Analytics at Hult University (Boston)<br>
-  📘 I'm currently learning Django and Docker<br>
-  📊 I'm Head of Operations at Hult Data Analytics Club<br>
-  🧘‍♂️ I'm passionate about meditation and buddhist philosophy<br>
+  🧑‍🎓 Graduating in Business Analytics at Hult University (Boston)<br>
+  📘 Learning Django and Docker<br>
+  📊 Head of Operations at Hult Data Analytics Club<br>
+  🧘‍♂️ Passionate about meditation and buddhist philosophy<br>
   🛼 I love to skate<br>
   
   
 
   ☕ Hit me up for a virtual coffee!
+  
   
   
   
