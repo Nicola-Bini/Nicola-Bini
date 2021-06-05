@@ -7,11 +7,10 @@
   🧑‍🎓 Graduating in Business Analytics at Hult University (Boston)<br>
   📘 Learning Django and Docker<br>
   📊 Head of Operations at Hult Data Analytics Club<br>
-  
   🧘‍♂️ Passionate about meditation and buddhist philosophy<br>
-  🛼 Skate lover<br>
+  🛼 Skate lover<br><br><br>
   
-  ☕ Hit me up for a virtual coffee!<br><br>
+  ☕ <b>Hit me up for a virtual coffee!</b><br><br>
   [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
   [<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">][instagram]
   
