@@ -3,11 +3,11 @@
   <p> Hello there, Nicola's here! 👋</p>
   
   
-  🧑‍🎓 Graduating in Business Analytics at Hult University (Boston)<br>
-  📘 Learning Django and Docker<br>
-  📊 Head of Operations at <a href="https://www.linkedin.com/company/hult-data-analytics-club/">Hult Data Analytics Club</a><br>
-  🧘‍♂️ Passionate about meditation and buddhist philosophy<br>
-  🛼 Skate lover
+  🧑‍🎓  Graduating in Business Analytics at Hult University (Boston)<br>
+  📘  Learning Django and Docker<br>
+  📊. Head of Operations at <a href="https://www.linkedin.com/company/hult-data-analytics-club/">Hult Data Analytics Club</a><br>
+  🧘‍♂️  Passionate about meditation and buddhist philosophy<br>
+  🛼  Skate lover
   
   
   
