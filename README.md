@@ -9,7 +9,7 @@
   🌱 Passionate about Sustainability, I dream about a future where each of us leave the world better than how we found it<br>
   📊 Head of Operations at <a href="https://www.linkedin.com/company/hult-data-analytics-club/">Hult Data Analytics Club</a><br>
   🧘‍♂️ In love with meditation and buddhist philosophy<br>
-  🛼  Skate lover
+  🛼  Skating enthusiast
   
   
   
