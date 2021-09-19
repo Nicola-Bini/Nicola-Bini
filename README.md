@@ -5,8 +5,8 @@
   
   🧑‍🎓  <b>Studies</b><br>
   |  - ,   <br>
-  | Business Analytics - Hult University, Boston (MA)  <br>
-  |  Finance - Hult University, Boston (MA) (Oct 2021 – May 2022)
+  |  - , Boston (MA)  <br>
+  |  ,  (Oct 2021 – May 2022)
   
   <table>
     <tr>
@@ -26,9 +26,10 @@
     
 | Timeline        | Course           | University  |  Location      |
 | ------------- |:-------------:| -----:| -----:|
-| 2021/2022      | Business Administration | Bocconi University |    Milan, Italy |
-| col 2 is      | centered      |   $12 |    $1 |
-| zebra stripes | are neat      |    $1 |    $1 |
+| 2016      | Computer Science Diploma | ITIS G Marconi, High School |    Jesi (AN), Italy |
+| 2019      | Business Administration | Bocconi University |    Milan (MI), Italy |
+| 2020 - 2021    | Business Analytics      |   Hult University |    Boston (MA), United States |
+| 2021 - 2022 | Finance -       |    Hult University |  Boston (MA), United States |
   
   🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
   📘  Learning Django and Docker<br>
