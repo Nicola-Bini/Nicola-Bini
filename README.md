@@ -15,6 +15,8 @@
     
   <h3>Projects highlights</h3>
   📐 **Crime database with queries and procedures for statistical purposes**: [Code](https://github.com/Nicola-Bini/Crime_db) | 
+  
+  [link to Google!](http://google.com)
   [Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf)
   
   
