@@ -14,7 +14,7 @@
     
     
   <h3>Projects highlights</h3>
-  📐 **Crime database with queries and procedures for statistical purposes**: ([🔗Code](https://github.com/Nicola-Bini/Crime_db) |  | [📄Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf))
+  📐 **Crime database with queries and procedures for statistical purposes**: ([!🔗Code](https://github.com/Nicola-Bini/Crime_db) |  | [!📄Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf))
   
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
