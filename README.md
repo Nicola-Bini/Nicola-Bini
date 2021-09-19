@@ -14,7 +14,7 @@
     
     
   <h3>Projects highlights</h3>
-  📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/deno750/TSP_Optimization) |  | [📄Paper](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf))
+  📐 **Crime database with queries and procedures for statistical purposes**: ([🔗Code](https://github.com/Nicola-Bini/Crime_db) |  | [📄Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf)
   
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
