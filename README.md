@@ -4,9 +4,36 @@
   
   
   🧑‍🎓  <b>Studies</b><br>
-  | Business Administration - Bocconi University, Milan (IT)  <br>
+  |  - ,   <br>
   | Business Analytics - Hult University, Boston (MA)  <br>
   |  Finance - Hult University, Boston (MA) (Oct 2021 – May 2022)
+  
+  <table>
+    <tr>
+      <th>Timeline</th>
+      <th>Course</th>
+      <th>University</th>
+      <th>Location</th>
+    
+    </tr>
+
+    <tr>
+      <td>2021/2022</td>
+      <td>Business Administration</td>
+      <td>Bocconi University</td>
+      <td>Milan (IT)</td>
+    </tr>
+    
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    
+  </table>
   
   
   🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
