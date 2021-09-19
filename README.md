@@ -10,31 +10,25 @@
   
   <table>
     <tr>
-      <th>Timeline</th>
-      <th>Course</th>
-      <th>University</th>
-      <th>Location</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
     
     </tr>
 
     <tr>
-      <td>2021/2022</td>
-      <td>Business Administration</td>
-      <td>Bocconi University</td>
-      <td>Milan (IT)</td>
-    </tr>
-    
-
-    <tr>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-
     
-  </table>
-  
+| Timeline        | Course           | University  |  Location      |
+| ------------- |:-------------:| -----:| -----:|
+| 2021/2022      | Business Administration | Bocconi University |    Milan, Italy |
+| col 2 is      | centered      |   $12 |    $1 |
+| zebra stripes | are neat      |    $1 |    $1 |
   
   🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
   📘  Learning Django and Docker<br>
