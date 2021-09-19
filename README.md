@@ -3,10 +3,10 @@
   <p> Hello there, Nicola's here! 👋</p>
   
   
-  🧑‍🎓  <b>Studies</b> 
+  🧑‍🎓  <b>Studies</b><br>
   | Business Administration - Bocconi University, Milan (IT)  <br>
   | Business Analytics - Hult University, Boston (MA)  <br>
-  | Finance - Hult University, Boston (MA) <style="text-color:green">ongoing<br>
+  | Finance - Hult University, Boston (MA) <p style="text-color:green">ongoing<br></p>
   
   
   🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
