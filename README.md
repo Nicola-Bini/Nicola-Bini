@@ -1,28 +1,8 @@
 -<!DOCTYPE html>
 <html>
   <p> Hello there, Nicola's here! 👋</p>
-  
-  
-  🧑‍🎓  <b>Studies</b><br>
-  |  - ,   <br>
-  |  - , Boston (MA)  <br>
-  |  ,  (Oct 2021 – May 2022)
-  
-  <table>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    
-    </tr>
+  <p> I have been studying Business and Computer Science in different forms, I'm always eager to learn new things 
 
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
     
 | Timeline        | Course           | University  |  Location      |
 | ------------- |-------------| -----| -----|
@@ -30,16 +10,7 @@
 | 2019      | Business Administration | Bocconi University |    Milan (MI), Italy |
 | 2021    | Business Analytics      |   Hult University |    Boston (MA), United States |
 | Expected 2022 | Finance -       |    Hult University |  Boston (MA), United States |
-  
-  🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
-  📘  Learning Django and Docker<br>
-  🏢  Studying Supply Chain and Operations<br>
-  🌱 Passionate about Sustainability, I dream about a future where each of us leave the world better than how we found it<br>
-  📊 Head of Operations at <a href="https://www.linkedin.com/company/hult-data-analytics-club/">Hult Data Analytics Club</a><br>
-  🧘‍♂️ In love with meditation and buddhist philosophy<br>
-  🛼  Skating enthusiast
-  
-  
+
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
   [<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
