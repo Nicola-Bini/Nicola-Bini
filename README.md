@@ -1,15 +1,15 @@
--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <p> Hello there, Nicola's here! 👋</p>
-  <p> I have been studying Business and Computer Science in different forms, I'm always eager to learn new things 
-
+  <p> I have been studying Business and Computer Science in different forms, I'm looking for an internship for the fall semester 2021
+    
     
 | Timeline        | Course           | University  |  Location      |
 | ------------- |-------------| -----| -----|
-| 2016      | Computer Science Diploma | ITIS G Marconi, High School |    Jesi (AN), Italy |
-| 2019      | Business Administration | Bocconi University |    Milan (MI), Italy |
-| 2021    | Business Analytics      |   Hult University |    Boston (MA), United States |
-| Expected 2022 | Finance -       |    Hult University |  Boston (MA), United States |
+| 2016           | Computer Science Diploma   | ITIS G Marconi, High School |    Jesi (AN), Italy           |
+| 2019          | Business Administration     | Bocconi University          |    Milan (MI), Italy          |
+| 2021          | Business Analytics          |   Hult University           |    Boston (MA), United States |
+| Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
 
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
