@@ -1,9 +1,15 @@
-<!DOCTYPE html>
+-<!DOCTYPE html>
 <html>
   <p> Hello there, Nicola's here! 👋</p>
   
   
-  🧑‍🎓  Graduating in Business Analytics at Hult University (Boston)<br>
+  🧑‍🎓  <b>Studies</b> 
+  | Business Administration - Bocconi University, Milan (IT)  <br>
+  | Business Analytics - Hult University, Boston (MA)  <br>
+  | Finance - Hult University, Boston (MA) <style="text-color:green">ongoing<br>
+  
+  
+  🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
   📘  Learning Django and Docker<br>
   🏢  Studying Supply Chain and Operations<br>
   🌱 Passionate about Sustainability, I dream about a future where each of us leave the world better than how we found it<br>
