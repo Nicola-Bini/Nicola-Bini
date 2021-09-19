@@ -14,6 +14,7 @@
     
     
   <h3>Projects highlights</h3>
+  📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/deno750/TSP_Optimization) |  | [📄Paper](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf))
   
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
@@ -35,4 +36,4 @@
 [linkedin]:   https://www.linkedin.com/in/nicola-bini/
 
 
-![](https://komarev.com/ghpvc/?username=Nicola-Bini&color=green&style=flat-square&label=Friends'+visits)
+![](https://komarev.com/ghpvc/?username=Nicola-Bini&color=blue&style=flat-square&label=Friends'+visits)
