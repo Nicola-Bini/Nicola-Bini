@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <p> Hello there, Nicola's here! 👋</p>
+  <p> Hello there, Nicola's here! </p>
   <p> I have been studying Business and Computer Science in different forms, I'm looking for an internship for the fall semester 2021
     
     
@@ -14,7 +14,7 @@
     
     
   <h3>Projects highlights</h3>
-  📐 **Crime database with queries and procedures for statistical purposes**: [Code](https://github.com/Nicola-Bini/Crime_db/) | [📄Report](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf)
+  📐 **Crime database with queries and procedures for statistical purposes**: [Code](https://github.com/Nicola-Bini/Crime_db/) | [👋Report](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf)
   
   
   ☕ <b>Hit me up for a virtual coffee!</b><br><br>
