@@ -6,7 +6,7 @@
   🧑‍🎓  <b>Studies</b><br>
   | Business Administration - Bocconi University, Milan (IT)  <br>
   | Business Analytics - Hult University, Boston (MA)  <br>
-  | Finance - Hult University, Boston (MA) <span style="color:green">ongoing<br></span>
+  |  Finance - Hult University, Boston (MA) (Oct 2021 – May 2022)
   
   
   🧑‍🎓  Graduated in Business Analytics at Hult University (Boston)<br>
