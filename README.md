@@ -12,12 +12,11 @@
 | Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
 
 <br>
-    
-    
+        
 # Projects highlights
   
   
-## 🐍 **Introduction to Python Class hosted by the Hult Data Club** ([📄Video](https://www.youtube.com/watch?v=3BUB4mHKGTc))
+## 🐍 **Introduction to Python Class hosted by the Hult Data Club** ((📹 Video](https://www.youtube.com/watch?v=3BUB4mHKGTc))
   - **30+ Hult Students and Alumni attended** the event
   - Live coding event held with participants from **more than 15 different countries**
   - Summarized Python's basic concepts in 1-hour long session
@@ -31,7 +30,7 @@
   <br><br>
   
   
-## 👮🏼‍ **Crime database for statistical reports:** ([🔗Code](https://github.com/Nicola-Bini/Crime_db/) | [📄Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf))
+## 👮🏼‍ **Crime database for statistical reports:** ([🔗 Code](https://github.com/Nicola-Bini/Crime_db/) | [📄 Paper](https://github.com/Nicola-Bini/Crime_db/blob/main/full_report.pdf))
    - Design and deployed a **normalized** SQL database following the guidelines from the **UCR Program** of the United States
    - Created queries and **Tableau visuals** to automatically create reports about statistics of crimes
    - Populated it with **10000+ rows of randomly generated data** to showcase the final result
@@ -43,7 +42,7 @@
 </p><br>
   
   
-## 📈 **Trading Algorithm using Keras and Twitter's sentiment analysis:** ([🔗Code](https://github.com/Nicola-Bini/algo-trading/blob/main/backtesting/backtest_test_data.ipynb) | [📄Report](https://github.com/Nicola-Bini/algo-trading))
+## 📈 **Trading Algorithm using Keras and Twitter's sentiment analysis:** ([🔗 Code](https://github.com/Nicola-Bini/algo-trading/blob/main/backtesting/backtest_test_data.ipynb) | [📄 Report](https://github.com/Nicola-Bini/algo-trading))
   - Trained LSTM models to make buy/sell decisions, achieved **60% accuracy on test data**
   - Scraped and analyzed sentiment of Twitter users about trading stocks
   - Ensembled model performing **27% better than invidual models**
