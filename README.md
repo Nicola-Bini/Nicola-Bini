@@ -16,7 +16,7 @@
 # Projects highlights
   
   
-## 🐍 **Introduction to Python Class hosted by the Hult Data Club** ((📹 Video](https://www.youtube.com/watch?v=3BUB4mHKGTc))
+## 🐍 **Introduction to Python Class hosted by the Hult Data Club** ([📹 Video](https://www.youtube.com/watch?v=3BUB4mHKGTc))
   - **30+ Hult Students and Alumni attended** the event
   - Live coding event held with participants from **more than 15 different countries**
   - Summarized Python's basic concepts in 1-hour long session
