@@ -23,7 +23,6 @@
   
   <p>
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133952024-8bc60e05-3fbc-4f25-866e-670272f98865.png" width="44%">
-&nbsp; &nbsp;
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133950990-c6bd17e1-3882-4875-b321-2a77a8fe5988.png" width="53%">
 </p>
 
@@ -49,7 +48,7 @@
 
 <p>
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133935269-a01f3e9a-fd9a-4e8b-aaa3-18e76a671b48.png" width="60%">
-&nbsp; &nbsp; &nbsp; &nbsp;
+
   <img alt="Dark" src="https://user-images.githubusercontent.com/63654846/133935264-8f90a2db-c0c6-496a-bb28-a7bcfe2ac5b8.jpeg" width="35%">
 </p><br>
 
