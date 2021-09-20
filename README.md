@@ -23,8 +23,8 @@
   
   <p>
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133952024-8bc60e05-3fbc-4f25-866e-670272f98865.png" width="44%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133950990-c6bd17e1-3882-4875-b321-2a77a8fe5988.png" width="52%">
+&nbsp; &nbsp;
+  <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133950990-c6bd17e1-3882-4875-b321-2a77a8fe5988.png" width="53%">
 </p>
 
   <br><br>
