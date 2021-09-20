@@ -1,7 +1,7 @@
 
 
 # Hellos, Nicola's here!👋🏼
-<p> I have been studying Business and Computer Science in different forms, I'm looking for an internship for the fall semester 2021
+<p> Business enthusiast and Computer Science addict. I'm looking for an internship for the fall semester 2021
     
     
 | Timeline      | Course                      | University                  |  Location                     |
