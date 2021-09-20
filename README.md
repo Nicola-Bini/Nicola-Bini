@@ -46,7 +46,7 @@
   - Scraped and analyzed sentiment of Twitter users about trading stocks
   - Ensembled model performing **27% better than invidual models**
 
-<p>
+<p align="center">
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133935269-a01f3e9a-fd9a-4e8b-aaa3-18e76a671b48.png" width="60%">
 
   <img alt="Dark" src="https://user-images.githubusercontent.com/63654846/133935264-8f90a2db-c0c6-496a-bb28-a7bcfe2ac5b8.jpeg" width="35%">
@@ -61,7 +61,6 @@
 </p>
 <p>
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133951829-d6271abd-a8d8-45c7-9872-8a5557b3d8e5.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Light" src="https://user-images.githubusercontent.com/63654846/133951856-14cccb48-6710-4599-8a1a-9a8563e068c0.jpg" width="45%">
 </p>
   
