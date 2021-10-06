@@ -1,5 +1,3 @@
-
-
 # Hellos, Nicola's here!👋🏼
 <p> Business enthusiast and Computer Science addict. I'm looking for an internship for the fall semester 2021
     
@@ -17,11 +15,11 @@
     
     
 ## 💯 Solved 2048 game using Markov Chain Monte Carlo ([📄Paper](https://github.com/Nicola-Bini/2048_solver))
-  - Created a **2048 clone using pycharm**, tested MCMC algorithm with different parameters (final algorithm on the right, n=1024)
+  - Created a **2048 clone using pycharm**, tested **MCMC algorithm** with different parameters (final algorithm on the right, n=1024)
   - Developed a **saving system** to quickly replay successful runs with different speed levels
   - Achieved a 2048 tile on the **first 3 consecutive runs**
   
-  n = 100 | n = 1024
+  n = 100 | n = 10
 :-: | :-:
 <video src='https://user-images.githubusercontent.com/63654846/134791782-9da0837b-4b8c-4947-bed7-102c85326eb7.mov' width="45"/> | <video src='https://user-images.githubusercontent.com/63654846/134791784-f0f447a9-3b70-4c02-9834-fea11628d738.mov' width="45"/>
     
