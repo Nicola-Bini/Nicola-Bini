@@ -2,7 +2,7 @@
 <p> Business enthusiast and Computer Science addict. I'm looking for an internship for the fall semester 2021
     
     
-| Timeline      | Course                      | University                  |  Location                     |
+| End date      | Course                      | University                  |  Location                     |
 | ------------- |-----------------------------| ----------------------------| ------------------------------|
 | 2016          | Computer Science Diploma    | ITIS G Marconi, High School |    Jesi (AN), Italy           |
 | 2019          | Business Administration     | Bocconi University          |    Milan (MI), Italy          |
