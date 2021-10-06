@@ -53,7 +53,7 @@
 </p><br>
   
   
-## 📈 **Trading Algorithm using Keras and Twitter's sentiment analysis:** ([🔗 Code](https://github.com/Nicola-Bini/algo-trading/blob/main/backtesting/backtest_test_data.ipynb) | [📄 Report](https://github.com/Nicola-Bini/algo-trading))
+## 📈 **Trading Algorithm with Keras and Twitter's sentiment analysis:** ([🔗 Code](https://github.com/Nicola-Bini/algo-trading/blob/main/backtesting/backtest_test_data.ipynb) | [📄 Report](https://github.com/Nicola-Bini/algo-trading))
   - Trained LSTM models to make buy/sell decisions, achieved **60% accuracy on test data**
   - Scraped and analyzed sentiment of Twitter users about trading stocks
   - Ensembled model performing **27% better than invidual models**
