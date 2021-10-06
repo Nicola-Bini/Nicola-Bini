@@ -14,8 +14,20 @@
 <br>
         
 # Projects highlights
+    
+    
+## 💯 Solved 2048 game using Markov Chain Monte Carlo ([📄Paper](https://github.com/Nicola-Bini/2048_solver))
+  - Created a **2048 clone using pycharm**
+  - Developed a **saving system** to quickly replay successful runs with different speed levels
+  - Achieved a 2048 tile on the **first 3 consecutive runs**
   
-  
+  n = 100 | n = 1024
+:-: | :-:
+<video src='https://user-images.githubusercontent.com/63654846/134791782-9da0837b-4b8c-4947-bed7-102c85326eb7.mov' width="45"/> | <video src='https://user-images.githubusercontent.com/63654846/134791784-f0f447a9-3b70-4c02-9834-fea11628d738.mov' width="45"/>
+    
+<br><br>
+    
+    
 ## 🐍 **Introduction to Python Class hosted by the Hult Data Club** ([📹 Video](https://www.youtube.com/watch?v=3BUB4mHKGTc))
   - **30+ Hult Students and Alumni attended** the event
   - Live coding event held with participants from **more than 15 different countries**
