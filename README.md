@@ -17,7 +17,7 @@
     
     
 ## 💯 Solved 2048 game using Markov Chain Monte Carlo ([📄Paper](https://github.com/Nicola-Bini/2048_solver))
-  - Created a **2048 clone using pycharm**
+  - Created a **2048 clone using pycharm**, and tested the algorithm using different parameters (final algorithm on the right, n=1024)
   - Developed a **saving system** to quickly replay successful runs with different speed levels
   - Achieved a 2048 tile on the **first 3 consecutive runs**
   
