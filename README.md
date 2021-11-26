@@ -1,5 +1,5 @@
 # Hellos, Nicola's here!👋🏼
-<p> Business enthusiast and Computer Science addict. I'm looking for an internship for the fall semester 2021
+<p> Business enthusiast and Computer Science addict.
     
     
 | End Date      | Course                      | University                  |  Location                     |
