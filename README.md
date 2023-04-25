@@ -7,7 +7,7 @@
 | 2016          | Computer Science Diploma    | ITIS G Marconi, High School |    Jesi (AN), Italy           |
 | 2019          | Business Administration     | Bocconi University          |    Milan (MI), Italy          |
 | 2021          | Business Analytics          |   Hult University           |    Boston (MA), United States |
-| Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
+| 2022          | Finance                     |    Hult University          |  Boston (MA), United States   |
 
 <br>
         
