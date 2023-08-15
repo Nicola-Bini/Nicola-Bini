@@ -1,5 +1,5 @@
 # Hellos, Nicola's here!👋🏼
-<p> Business enthusiast and Computer Science addict.
+<p> Business enthusiast and computer science addict.
     
     
 | End Date      | Course                      | University                  |  Location                     |
